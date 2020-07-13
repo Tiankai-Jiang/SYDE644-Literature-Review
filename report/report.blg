@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+The style file: apalike.bst
+Database file #1: references.bib
+Warning--empty booktitle in tactilefeedback2008
+Warning--empty booktitle in backkey2012
+You've used 24 entries,
+            1935 wiz_defined-function locations,
+            618 strings with 8773 characters,
+and the built_in function-call counts, 13537 in all, are:
+= -- 1462
+> -- 497
+< -- 25
++ -- 182
+- -- 170
+* -- 862
+:= -- 1965
+add.period$ -- 90
+call.type$ -- 24
+change.case$ -- 205
+chr.to.int$ -- 24
+cite$ -- 26
+duplicate$ -- 776
+empty$ -- 882
+format.name$ -- 206
+if$ -- 3072
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 24
+newline$ -- 122
+num.names$ -- 72
+pop$ -- 228
+preamble$ -- 1
+purify$ -- 205
+quote$ -- 0
+skip$ -- 735
+stack$ -- 0
+substring$ -- 702
+swap$ -- 381
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 144
+warning$ -- 2
+while$ -- 70
+width$ -- 0
+write$ -- 363
+(There were 2 warnings)

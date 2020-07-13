@@ -1,0 +1,172 @@
+\begin{thebibliography}{}
+
+\bibitem[Azenkot and Zhai, 2012]{10.1145/2371574.2371612}
+Azenkot, S. and Zhai, S. (2012).
+\newblock Touch behavior with different postures on soft smartphone keyboards.
+\newblock In {\em Proceedings of the 14th International Conference on
+  Human-Computer Interaction with Mobile Devices and Services}, MobileHCI
+  ’12, page 251–260, New York, NY, USA. Association for Computing
+  Machinery.
+
+\bibitem[Bi et~al., 2012]{10.1145/2380116.2380136}
+Bi, X., Chelba, C., Ouyang, T., Partridge, K., and Zhai, S. (2012).
+\newblock Bimanual gesture keyboard.
+\newblock In {\em Proceedings of the 25th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST ’12, page 137–146, New York, NY,
+  USA. Association for Computing Machinery.
+
+\bibitem[Bi et~al., 2010]{10.1145/1753326.1753367}
+Bi, X., Smith, B.~A., and Zhai, S. (2010).
+\newblock Quasi-qwerty soft keyboard optimization.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’10, page 283–286, New York, NY, USA. Association
+  for Computing Machinery.
+
+\bibitem[Chen et~al., 2014]{10.1145/2642918.2647354}
+Chen, X.~A., Grossman, T., and Fitzmaurice, G. (2014).
+\newblock Swipeboard: A text entry technique for ultra-small interfaces that
+  supports novice to expert transitions.
+\newblock In {\em Proceedings of the 27th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST 14, page 615–620, New York, NY,
+  USA. Association for Computing Machinery.
+
+\bibitem[Dhakal et~al., 2018]{10.1145/3173574.3174220}
+Dhakal, V., Feit, A.~M., Kristensson, P.~O., and Oulasvirta, A. (2018).
+\newblock Observations on typing from 136 million keystrokes.
+\newblock In {\em Proceedings of the 2018 CHI Conference on Human Factors in
+  Computing Systems}, CHI ’18, page 1–12, New York, NY, USA. Association
+  for Computing Machinery.
+
+\bibitem[Findlater et~al., 2011]{10.1145/1978942.1979301}
+Findlater, L., Wobbrock, J.~O., and Wigdor, D. (2011).
+\newblock Typing on flat glass: Examining ten-finger expert typing patterns on
+  touch surfaces.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’11, page 2453–2462, New York, NY, USA.
+  Association for Computing Machinery.
+
+\bibitem[Goel et~al., 2013]{10.1145/2470654.2481386}
+Goel, M., Jansen, A., Mandel, T., Patel, S.~N., and Wobbrock, J.~O. (2013).
+\newblock Contexttype: Using hand posture information to improve mobile touch
+  screen text entry.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’13, page 2795–2798, New York, NY, USA.
+  Association for Computing Machinery.
+
+\bibitem[Gordon et~al., 2016]{10.1145/2858036.2858242}
+Gordon, M., Ouyang, T., and Zhai, S. (2016).
+\newblock Watchwriter: Tap and gesture typing on a smartwatch miniature
+  keyboard with statistical decoding.
+\newblock In {\em Proceedings of the 2016 CHI Conference on Human Factors in
+  Computing Systems}, CHI ’16, page 3817–3821, New York, NY, USA.
+  Association for Computing Machinery.
+
+\bibitem[Green et~al., 2004]{10.1145/985921.986082}
+Green, N., Kruger, J., Faldu, C., and St.~Amant, R. (2004).
+\newblock A reduced qwerty keyboard for mobile text entry.
+\newblock In {\em CHI ’04 Extended Abstracts on Human Factors in Computing
+  Systems}, CHI EA ’04, page 1429–1432, New York, NY, USA. Association for
+  Computing Machinery.
+
+\bibitem[Hoggan et~al., 2008]{tactilefeedback2008}
+Hoggan, E., Brewster, S., and Johnston, J. (2008).
+\newblock Investigating the effectiveness of tactile feedback for mobile
+  touchscreens.
+\newblock pages 1573--1582.
+
+\bibitem[Hong et~al., 2015]{10.1145/2702123.2702273}
+Hong, J., Heo, S., Isokoski, P., and Lee, G. (2015).
+\newblock Splitboard: A simple split soft keyboard for wristwatch-sized touch
+  screens.
+\newblock In {\em Proceedings of the 33rd Annual ACM Conference on Human
+  Factors in Computing Systems}, CHI ’15, page 1233–1236, New York, NY,
+  USA. Association for Computing Machinery.
+
+\bibitem[Kim et~al., 2012]{backkey2012}
+Kim, H., Row, Y.~K., and Lee, G. (2012).
+\newblock Back keyboard: a physical keyboard on backside of mobile phone using
+  qwerty.
+
+\bibitem[Komninos and Dunlop, 2014]{6926662}
+Komninos, A. and Dunlop, M. (2014).
+\newblock Text input on a smart watch.
+\newblock {\em IEEE Pervasive Computing}, 13(04):50--58.
+
+\bibitem[Lee and Zhai, 2009]{10.1145/1518701.1518750}
+Lee, S. and Zhai, S. (2009).
+\newblock The performance of touch screen soft buttons.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’09, page 309–318, New York, NY, USA. Association
+  for Computing Machinery.
+
+\bibitem[Li et~al., 2011]{10.1145/2047196.2047257}
+Li, F. C.~Y., Guy, R.~T., Yatani, K., and Truong, K.~N. (2011).
+\newblock The 1line keyboard: A qwerty layout in a single line.
+\newblock In {\em Proceedings of the 24th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST ’11, page 461–470, New York, NY,
+  USA. Association for Computing Machinery.
+
+\bibitem[Mackenzie and Soukoreff, 2002]{twothumb2002}
+Mackenzie, I. and Soukoreff, R. (2002).
+\newblock A model of two-thumb text entry.
+\newblock {\em Proceedings - Graphics Interface}.
+
+\bibitem[MacKenzie and Zhang, 1999]{10.1145/302979.302983}
+MacKenzie, I.~S. and Zhang, S.~X. (1999).
+\newblock The design and evaluation of a high-performance soft keyboard.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’99, page 25–31, New York, NY, USA. Association
+  for Computing Machinery.
+
+\bibitem[Mottelson et~al., 2016]{10.1145/2935334.2935360}
+Mottelson, A., Larsen, C., Lyderik, M., Strohmeier, P., and Knibbe, J. (2016).
+\newblock Invisiboard: Maximizing display and input space with a full screen
+  text entry method for smartwatches.
+\newblock In {\em Proceedings of the 18th International Conference on
+  Human-Computer Interaction with Mobile Devices and Services}, MobileHCI
+  ’16, page 53–59, New York, NY, USA. Association for Computing Machinery.
+
+\bibitem[Oney et~al., 2013]{10.1145/2470654.2481387}
+Oney, S., Harrison, C., Ogan, A., and Wiese, J. (2013).
+\newblock Zoomboard: A diminutive qwerty soft keyboard using iterative zooming
+  for ultra-small devices.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’13, page 2799–2802, New York, NY, USA.
+  Association for Computing Machinery.
+
+\bibitem[Scott et~al., 2010]{scott2010reartype}
+Scott, J., Izadi, S., Rezai, L.~S., Ruszkowski, D., Bi, X., and Balakrishnan,
+  R. (2010).
+\newblock Reartype: Text entry using keys on the back of a device.
+\newblock In {\em Proceedings of MobileHCI 2010}. Association for Computing
+  Machinery, Inc.
+
+\bibitem[Wobbrock et~al., 2008]{handposture2008}
+Wobbrock, J., Myers, B., and Aung, H. (2008).
+\newblock The performance of hand postures in front- and back-of-device
+  interaction for mobile computing.
+\newblock {\em Int. J. Hum.-Comput. Stud.}, 66:857--875.
+
+\bibitem[Zhai and Kristensson, 2003]{10.1145/642611.642630}
+Zhai, S. and Kristensson, P.-O. (2003).
+\newblock Shorthand writing on stylus keyboard.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’03, page 97–104, New York, NY, USA. Association
+  for Computing Machinery.
+
+\bibitem[Zhai et~al., 2009]{10.1145/1520340.1520380}
+Zhai, S., Kristensson, P.~O., Gong, P., Greiner, M., Peng, S.~A., Liu, L.~M.,
+  and Dunnigan, A. (2009).
+\newblock Shapewriter on the iphone: From the laboratory to the real world.
+\newblock In {\em CHI ’09 Extended Abstracts on Human Factors in Computing
+  Systems}, CHI EA ’09, page 2667–2670, New York, NY, USA. Association for
+  Computing Machinery.
+
+\bibitem[Zhu et~al., 2018]{10.1145/3173574.3174013}
+Zhu, S., Luo, T., Bi, X., and Zhai, S. (2018).
+\newblock Typing on an invisible keyboard.
+\newblock In {\em Proceedings of the 2018 CHI Conference on Human Factors in
+  Computing Systems}, CHI ’18, page 1–13, New York, NY, USA. Association
+  for Computing Machinery.
+
+\end{thebibliography}
