@@ -3,47 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: report.aux
 The style file: apalike.bst
 Database file #1: references.bib
-Warning--empty booktitle in tactilefeedback2008
-Warning--empty booktitle in backkey2012
 You've used 29 entries,
             1935 wiz_defined-function locations,
-            642 strings with 9832 characters,
-and the built_in function-call counts, 16637 in all, are:
-= -- 1807
+            648 strings with 10047 characters,
+and the built_in function-call counts, 17197 in all, are:
+= -- 1894
 > -- 607
-< -- 31
+< -- 33
 + -- 220
 - -- 208
-* -- 1048
-:= -- 2396
-add.period$ -- 110
+* -- 1059
+:= -- 2434
+add.period$ -- 113
 call.type$ -- 29
 change.case$ -- 249
 chr.to.int$ -- 29
-cite$ -- 31
-duplicate$ -- 965
-empty$ -- 1079
+cite$ -- 29
+duplicate$ -- 1021
+empty$ -- 1104
 format.name$ -- 251
-if$ -- 3796
+if$ -- 3966
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 29
-newline$ -- 147
+newline$ -- 148
 num.names$ -- 87
-pop$ -- 276
+pop$ -- 264
 preamble$ -- 1
 purify$ -- 249
 quote$ -- 0
-skip$ -- 922
+skip$ -- 1001
 stack$ -- 0
-substring$ -- 856
-swap$ -- 485
-text.length$ -- 24
+substring$ -- 888
+swap$ -- 541
+text.length$ -- 26
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 174
-warning$ -- 2
-while$ -- 85
+warning$ -- 0
+while$ -- 86
 width$ -- 0
-write$ -- 443
-(There were 2 warnings)
+write$ -- 456
