@@ -30,11 +30,27 @@ Chen, X.~A., Grossman, T., and Fitzmaurice, G. (2014).
   Interface Software and Technology}, UIST 14, page 615–620, New York, NY,
   USA. Association for Computing Machinery.
 
+\bibitem[Clawson et~al., 2008]{10.1145/1357054.1357147}
+Clawson, J., Lyons, K., Rudnick, A., Iannucci, R.~A., and Starner, T. (2008).
+\newblock Automatic whiteout++: Correcting mini-qwerty typing errors using
+  keypress timing.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’08, page 573–582, New York, NY, USA. Association
+  for Computing Machinery.
+
 \bibitem[Dhakal et~al., 2018]{10.1145/3173574.3174220}
 Dhakal, V., Feit, A.~M., Kristensson, P.~O., and Oulasvirta, A. (2018).
 \newblock Observations on typing from 136 million keystrokes.
 \newblock In {\em Proceedings of the 2018 CHI Conference on Human Factors in
   Computing Systems}, CHI ’18, page 1–12, New York, NY, USA. Association
+  for Computing Machinery.
+
+\bibitem[Findlater and Wobbrock, 2012]{10.1145/2207676.2208520}
+Findlater, L. and Wobbrock, J. (2012).
+\newblock Personalized input: Improving ten-finger touchscreen typing through
+  automatic adaptation.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’12, page 815–824, New York, NY, USA. Association
   for Computing Machinery.
 
 \bibitem[Findlater et~al., 2011]{10.1145/1978942.1979301}
@@ -67,6 +83,13 @@ Green, N., Kruger, J., Faldu, C., and St.~Amant, R. (2004).
 \newblock In {\em CHI ’04 Extended Abstracts on Human Factors in Computing
   Systems}, CHI EA ’04, page 1429–1432, New York, NY, USA. Association for
   Computing Machinery.
+
+\bibitem[Gunawardana et~al., 2010]{10.1145/1719970.1719986}
+Gunawardana, A., Paek, T., and Meek, C. (2010).
+\newblock Usability guided key-target resizing for soft keyboards.
+\newblock In {\em Proceedings of the 15th International Conference on
+  Intelligent User Interfaces}, IUI ’10, page 111–118, New York, NY, USA.
+  Association for Computing Machinery.
 
 \bibitem[Hoggan et~al., 2008]{tactilefeedback2008}
 Hoggan, E., Brewster, S., and Johnston, J. (2008).
@@ -141,11 +164,27 @@ Scott, J., Izadi, S., Rezai, L.~S., Ruszkowski, D., Bi, X., and Balakrishnan,
 \newblock In {\em Proceedings of MobileHCI 2010}. Association for Computing
   Machinery, Inc.
 
+\bibitem[Vertanen et~al., 2015]{10.1145/2702123.2702135}
+Vertanen, K., Memmi, H., Emge, J., Reyal, S., and Kristensson, P.~O. (2015).
+\newblock Velocitap: Investigating fast mobile text entry using sentence-based
+  decoding of touchscreen keyboard input.
+\newblock In {\em Proceedings of the 33rd Annual ACM Conference on Human
+  Factors in Computing Systems}, CHI ’15, page 659–668, New York, NY, USA.
+  Association for Computing Machinery.
+
 \bibitem[Wobbrock et~al., 2008]{handposture2008}
 Wobbrock, J., Myers, B., and Aung, H. (2008).
 \newblock The performance of hand postures in front- and back-of-device
   interaction for mobile computing.
 \newblock {\em Int. J. Hum.-Comput. Stud.}, 66:857--875.
+
+\bibitem[Yin et~al., 2013]{10.1145/2470654.2481384}
+Yin, Y., Ouyang, T.~Y., Partridge, K., and Zhai, S. (2013).
+\newblock Making touchscreen keyboards adaptive to keys, hand postures, and
+  individuals: A hierarchical spatial backoff model approach.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’13, page 2775–2784, New York, NY, USA.
+  Association for Computing Machinery.
 
 \bibitem[Zhai and Kristensson, 2003]{10.1145/642611.642630}
 Zhai, S. and Kristensson, P.-O. (2003).

@@ -271,6 +271,25 @@ ContextType \citep{10.1145/2470654.2481386} was a method using typing postures t
 \subsection{Algorithm Enhancement}
 The improvement in algorithm could significantly improve the typing experience. And usually, a new algorithm was combined with some other technologies or research findings, such as Invisiboard \citep{10.1145/2935334.2935360} combined a new reduced keyboard with new decoding algorithm; ContextType \citep{10.1145/2470654.2481386} combined the keyboard with a posture detection algorithm, etc. In this subsection, several approaches concentrating on the algorithm design to enhance typing were introduced.
 
+\citet{10.1145/1357054.1357147} designed a system -- Automatic Whiteout++ to detect and correct errors made by typists on physical mini-QWERTY keyboard. In their previous system Automatic Whiteout, the algorithm could already detect typos like row substitution error (e.g. cat to cay), key repeat error (e.g. cat to caat), roll-on insertion error (e.g. cat to cart) and roll-off insertion error (e.g. cat to catr). In this new system, bi-letter and tri-letter frequency were introduced to help with error detection. And a decision tree was used to decide whether or not a word was a typo. Experiment showed the new system could detect and correct up to 32.37\% of errors. One drawback of this system was that it did not use the dictionary information, maybe it was constrained by the computing power for mobile devices at that time, combining of which may lead to a better result.
+
+\citet{10.1145/2702123.2702135} proposed VelociTap, a pure keyboard decoder that supported a sentence-based text entry approach. The decoder used a probabilistic keyboard model, a character language model, and a word language model. The algorithm was designed by adding the keyboard model log probability to the language model log probability multiplied by a scaling factor. And the result was used to search for the top 50 probable hypotheses. The system was trained with billions of words from blogs and social media. The experiment result indicated the system could achieve a similar text entry speed as Google keyboard but a much lower error rate.
+
+In addition to the decoder algorithm improvement, key resizing and adaptation algorithms were popular and effective as well. \citet{10.1145/2207676.2208520} proposed an algorithm based on touch location, touch area, finger movement, previous key press and the position of hand and arm. The keys with the top probability for the next candidate were enlarged or moved slightly to a preferred position. Result showed that while remaining a low error rate, the adapted keyboard outperformed the conventional one. 
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{Usability.png}
+  \caption{Keyboard adaptation \citep{10.1145/1719970.1719986}, left: unconstrained, right: constrained}
+  \label{fig:usability}
+\end{figure}
+
+Furthermore, \citet{10.1145/1719970.1719986} did a usability research on auto adaptive keyboards, the result showed those keyboards could lower the error rate. However, the authors also adviced the designers to add constraints to the adaptation algorithm (Figure \ref{fig:usability}(right)), since a too extreme algorithm would make it impossible to tap some keys, as it is shown in Figure \ref{fig:usability}(left).
+
+Finally, \citet{10.1145/2470654.2481384} combined the posture adaptation and keyboard layout adaptation together. Using a hierarchical spatial backoff model with submodels of different levels of complexity, they reduced the language-model-independent error rate by 13.2\%.
+
+\subsection{Text Entry User Experience Improvement: Conclusion}
+In this section, potential methods to improve the user experience when typing were summarized. Shrinking the keyboard, moving the keyboard to the back or making keyboard invisible could be used to maximizing display area. Modifying keyboard layout, adding physical feedback, and other methods related to postures or gestures could be used to improve the typing speed or lower the error rate or both. And designing a new decoding/adaptive algorithm could be beneficial in all aspects. When designing a highly efficient and user attracting keyboard on mobile devices, the factors in this section should be considered.
 
 \newpage
 \bibliographystyle{apalike}
