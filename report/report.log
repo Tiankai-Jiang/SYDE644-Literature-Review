@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  14 JUL 2020 14:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  14 JUL 2020 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -327,7 +327,11 @@ File: listings.cfg 2019/02/27 1.8b listings configuration
 Package: listings 2019/02/27 1.8b (Carsten Heinz)
 \c@theorem=\count129
 
-(./report.aux)
+(./report.aux
+
+LaTeX Warning: Label `section-improvement' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
@@ -344,8 +348,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
 LaTeX Font Info:    ... okay on input line 44.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
 LaTeX Font Info:    ... okay on input line 44.
-
-(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count130
 \scratchdimen=\dimen133
@@ -419,70 +422,70 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
-<ReducedQWERTYKeyboard.png, id=97, 755.82375pt x 169.63374pt>
+<ReducedQWERTYKeyboard.png, id=105, 755.82375pt x 169.63374pt>
 File: ReducedQWERTYKeyboard.png Graphic file (type png)
 <use ReducedQWERTYKeyboard.png>
 Package pdftex.def Info: ReducedQWERTYKeyboard.png  used on input line 85.
 (pdftex.def)             Requested size: 384.4775pt x 86.28944pt.
  [2]
-<RearType1.png, id=112, 342.27875pt x 241.90375pt>
+<RearType1.png, id=120, 342.27875pt x 241.90375pt>
 File: RearType1.png Graphic file (type png)
 <use RearType1.png>
 Package pdftex.def Info: RearType1.png  used on input line 95.
 (pdftex.def)             Requested size: 240.29752pt x 169.83345pt.
-<RearType2.png, id=113, 341.275pt x 219.82124pt>
+<RearType2.png, id=121, 341.275pt x 219.82124pt>
 File: RearType2.png Graphic file (type png)
 <use RearType2.png>
 Package pdftex.def Info: RearType2.png  used on input line 96.
 (pdftex.def)             Requested size: 240.29752pt x 154.78279pt.
  [3 <./ReducedQWERTYKeyboard.png>] [4 <./RearType1.png> <./RearType2.png>]
-<HandPostureFrontBack.png, id=139, 576.1525pt x 295.1025pt>
+<HandPostureFrontBack.png, id=147, 576.1525pt x 295.1025pt>
 File: HandPostureFrontBack.png Graphic file (type png)
 <use HandPostureFrontBack.png>
 Package pdftex.def Info: HandPostureFrontBack.png  used on input line 112.
 (pdftex.def)             Requested size: 384.4775pt x 196.93413pt.
  [5 <./HandPostureFrontBack.png>] [6]
-<Layout1999.png, id=165, 455.7025pt x 196.735pt>
+<Layout1999.png, id=173, 455.7025pt x 196.735pt>
 File: Layout1999.png Graphic file (type png)
 <use Layout1999.png>
 Package pdftex.def Info: Layout1999.png  used on input line 140.
 (pdftex.def)             Requested size: 384.4775pt x 165.98872pt.
-<Layout2010.png, id=173, 564.1075pt x 105.39375pt>
+<Layout2010.png, id=181, 564.1075pt x 105.39375pt>
 File: Layout2010.png Graphic file (type png)
 <use Layout2010.png>
 Package pdftex.def Info: Layout2010.png  used on input line 151.
 (pdftex.def)             Requested size: 384.4775pt x 71.83403pt.
  [7 <./Layout1999.png>]
-<Layout2011.png, id=193, 794.97pt x 166.6225pt>
+<Layout2011.png, id=201, 794.97pt x 166.6225pt>
 File: Layout2011.png Graphic file (type png)
 <use Layout2011.png>
 Package pdftex.def Info: Layout2011.png  used on input line 162.
 (pdftex.def)             Requested size: 384.4775pt x 80.58553pt.
  [8 <./Layout2010.png> <./Layout2011.png>]
-<ZoomBoard.png, id=210, 934.49126pt x 215.80624pt>
+<ZoomBoard.png, id=218, 934.49126pt x 215.80624pt>
 File: ZoomBoard.png Graphic file (type png)
 <use ZoomBoard.png>
 Package pdftex.def Info: ZoomBoard.png  used on input line 179.
 (pdftex.def)             Requested size: 384.4775pt x 88.79066pt.
  [9 <./ZoomBoard.png>]
-<Watch2014T9.png, id=227, 515.9275pt x 188.705pt>
+<Watch2014T9.png, id=235, 515.9275pt x 188.705pt>
 File: Watch2014T9.png Graphic file (type png)
 <use Watch2014T9.png>
 Package pdftex.def Info: Watch2014T9.png  used on input line 190.
 (pdftex.def)             Requested size: 384.4775pt x 140.63002pt.
-<SwipeBoard.png, id=235, 378.41376pt x 143.53625pt>
+<SwipeBoard.png, id=243, 378.41376pt x 143.53625pt>
 File: SwipeBoard.png Graphic file (type png)
 <use SwipeBoard.png>
 Package pdftex.def Info: SwipeBoard.png  used on input line 201.
 (pdftex.def)             Requested size: 384.4775pt x 145.83777pt.
  [10 <./Watch2014T9.png>]
-<SplitBoard.png, id=252, 397.485pt x 237.88875pt>
+<SplitBoard.png, id=260, 397.485pt x 237.88875pt>
 File: SplitBoard.png Graphic file (type png)
 <use SplitBoard.png>
 Package pdftex.def Info: SplitBoard.png  used on input line 212.
 (pdftex.def)             Requested size: 384.4775pt x 230.1093pt.
  [11 <./SwipeBoard.png>]
-<WatchWriter.png, id=268, 266.9975pt x 266.9975pt>
+<WatchWriter.png, id=276, 266.9975pt x 266.9975pt>
 File: WatchWriter.png Graphic file (type png)
 <use WatchWriter.png>
 Package pdftex.def Info: WatchWriter.png  used on input line 223.
@@ -492,62 +495,63 @@ Underfull \hbox (badness 1242) in paragraph at lines 223--223
 []\OT1/cmr/m/n/9 (a) |Watch-Writer from
  []
 
-<Invisiboard.png, id=273, 604.2575pt x 182.6825pt>
+<Invisiboard.png, id=281, 604.2575pt x 182.6825pt>
 File: Invisiboard.png Graphic file (type png)
 <use Invisiboard.png>
 Package pdftex.def Info: Invisiboard.png  used on input line 224.
 (pdftex.def)             Requested size: 336.41505pt x 101.70775pt.
 [12 <./SplitBoard.png>] [13 <./WatchWriter.png> <./Invisiboard.png>] [14]
 [15]
-<Bimanual.png, id=342, 767.86874pt x 219.82124pt>
+<Bimanual.png, id=350, 767.86874pt x 219.82124pt>
 File: Bimanual.png Graphic file (type png)
 <use Bimanual.png>
 Package pdftex.def Info: Bimanual.png  used on input line 250.
 (pdftex.def)             Requested size: 384.4775pt x 110.068pt.
  [16 <./Bimanual.png>]
-<Posture1.png, id=359, 357.335pt x 290.08376pt>
+<Posture1.png, id=367, 357.335pt x 290.08376pt>
 File: Posture1.png Graphic file (type png)
 <use Posture1.png>
 Package pdftex.def Info: Posture1.png  used on input line 266.
 (pdftex.def)             Requested size: 240.29752pt x 195.07216pt.
-<Posture2.png, id=360, 356.33125pt x 283.0575pt>
+<Posture2.png, id=368, 356.33125pt x 283.0575pt>
 File: Posture2.png Graphic file (type png)
 <use Posture2.png>
 Package pdftex.def Info: Posture2.png  used on input line 267.
 (pdftex.def)             Requested size: 240.29752pt x 190.88278pt.
  [17 <./Posture1.png> <./Posture2.png>] [18]
-<Usability.png, id=399, 746.79pt x 236.885pt>
+<Usability.png, id=407, 746.79pt x 236.885pt>
 File: Usability.png Graphic file (type png)
 <use Usability.png>
 Package pdftex.def Info: Usability.png  used on input line 288.
 (pdftex.def)             Requested size: 384.4775pt x 121.95557pt.
- [19 <./Usability.png>] [20] [21] [22] [23] (./report.bbl [24] [25] [26] [27])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 362.
+ [19 <./Usability.png>] [20] [21] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+
+ []
+
+[23] (./report.bbl [24] [25] [26] [27])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 363.
  [28]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 362.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 363.
+ (./report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 363.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 363.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: F9D4108EBD9714CFDC5202364095A1FF;1550.
 
-(./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 362.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 362.
 
+LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: B9DE4EF5BAC9692F9FCA377DD5C112ED;1433
-(rerunfilecheck)             After:  B4D58C088CB94D367AEBCFFEDE55AD92;1504.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 362.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 363.
  ) 
 Here is how much of TeX's memory you used:
- 9369 strings out of 492616
- 139658 string characters out of 6129482
- 235167 words of memory out of 5000000
- 13066 multiletter control sequences out of 15000+600000
+ 9372 strings out of 492616
+ 139694 string characters out of 6129482
+ 235172 words of memory out of 5000000
+ 13068 multiletter control sequences out of 15000+600000
  12807 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,10n,53p,1532b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,10n,53p,1532b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
@@ -561,10 +565,10 @@ cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
 xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texli
 ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (28 pages, 5677250 bytes).
+Output written on report.pdf (28 pages, 5677960 bytes).
 PDF statistics:
- 583 PDF objects out of 1000 (max. 8388607)
- 471 compressed objects within 5 object streams
- 106 named destinations out of 1000 (max. 500000)
- 246 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 590 PDF objects out of 1000 (max. 8388607)
+ 478 compressed objects within 5 object streams
+ 107 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
 
