@@ -299,7 +299,62 @@ In this section, potential methods to improve the user experience when typing we
 
 \section{Keyboard Evaluation}\label{section-evaluation}
 % speed, error rate, learnability, workload, phrase selection, participants selection
-This section introduces tools and critera used for keyboard evaluation.
+This section briefly discussed tools and critera used for keyboard evaluation. Most papers discussed in this section have been mentioned in the previous section. In total 36 papers were examined.
+
+\subsection{Subjects}
+The subject selection is essential for experiment design. 25 papers mentioned their participants selection. The number of participants ranged from 5 to 45, with an average of 16 and a mode of 12. Seven papers mentioned their participants were familiar with QWERTY keyboard on mobile devices before. Two papers \citep{10.1145/3173574.3174013, 10.1145/2371574.2371612} mentioned that their participants all had experience on touch screen. Another two \citep{10.1145/2037373.2037440, 10.1145/1978942.1979301} hired both normal people and expert typists in their experiment. For one study related to posture \citep{10.1016/j.ijhcs.2008.03.004}, participants were required to be right-handed and for one study related to keyboard evaluation \citep{10.1145/2702123.2702273}, participants were required to be native in English.
+
+\subsection{Phrase Sets}
+When evaluating a topic related to text entry, participants enter texts of phrases provided by researchers and the corresponding data are collected. The selected phrase sets should be moderate in length, easy to remember, and representative of the target language. 20 papers mentioned their phrase sets selection. 14 of them used a phrase set from \citep{10.1145/765891.765971}. It was a collection of 500 phrases that met the criteria mentioned above and was widely used for text entry experiments. Other experiments used phrases set that met their own demand such as a modification of UK dictionary \citep{6926662}, email sentences with 1–12 words from the W3C email corpus and the non-spam messages in the TREC 2005 corpus \citep{10.1145/2702123.2702135} and 12 four-letter words \citep{10.1145/2642918.2647354}.
+
+\subsection{Speed}
+Typing speed is one of the most important criteria to evaluate the performance of a keyboard. The most common method to measure the typing speed is using word per minute (WPM). 23 reviewed papers used WPM to measure the speed. It is defined as: $$WPM=\frac{\abs{T}-1}{S}\times \frac{1}{5}\times 60$$ where S is time measure in seconds, from the first key press to the last. And $\abs{T}$ is the length of the final text entered by the participant.
+
+In addition to WPM, character per minute (CPM) can also be used. CPM was used in \citep{10.1145/1753326.1753367}. And for some special keyboards, the time to enter each character are not the same, e.g. in SwipeBoard \citep{10.1145/2642918.2647354}, entering letter A was much more faster than entering letter N. Therefore, character entry time, which is the time between two valid key hits, was used to record entry time for each character. Three papers \citep{10.1145/1357054.1357300, 6926662, 10.1145/1753326.1753367} also used phrase completion time, which is the average time to complete each phrase, to measure the typing speed.
+
+\subsection{Error Rate}
+Error rate is another essential aspect to measure the text entry performance. It is more complicated to measure error than speed. Here are some notations defined by \citep{10.1145/642611.642632}:
+
+\begin{itemize}
+    \item $\abs{\cdot}$: length of something.
+    \item \textit{Presented Text(P)}: text a participant should enter.
+    \item \textit{Transcribed Text(T)}: text a participant actually entered.
+    \item \textit{Input Stream(IS)}: all keystrokes sequence while entering P.
+    \item \textit{Correct(C)}: correct characters in T.
+    \item \textit{Incorrect Not Fixed(INF)}: incorrect characters in T.
+    \item \textit{Fixes(F)}: modifier keys and backspace, delete and navigation keys.
+    \item \textit{Incorrect Fixed(IF)}: character in IS but not in F and not in T.
+    \item \textit{Minimum String Distance(MSD)}: minimum number of insertion, deletion or substitution of a single character to transform T into P.
+
+\end{itemize}
+
+Several commonly used error measurement method are:
+
+\begin{itemize}
+    \item \textit{Error Rate(ER)}:$=\frac{INF}{\abs{T}}\times 100\%$
+    \item \textit{MSD Error Rate(MSD ER)}:$=\frac{MSD(P,T)}{Max(P,T)}\times 100\%$
+    \item \textit{KeyStroke Per Character(KSPC)}:$=\frac{\abs{IS}}{\abs{T}}$
+    \item \textit{Erroneous Keystroke Error Rate(EKS ER)}:$=\frac{INF+IF}{\abs{P}}\times 100\%$
+    \item \textit{Total Error Rate(Total ER)}:$=\frac{INF+IF}{C+INF+IF}\times 100\%$
+    \item \textit{Not Corrected Error Rate(Not Corrected ER)}:$=\frac{INF}{C+INF+IF}\times 100\%$
+    \item \textit{Corrected Error Rate(Corrected ER)}:$=\frac{IF}{C+INF+IF}\times 100\%$
+\end{itemize}
+
+In the reviewed papers, five used ER, three used KSPC, three used corrected and uncorrected ER, three used MSD and three used total ER. \citet{10.1145/642611.642632, 10.5555/1970759, 54444533} thoroughly discussed the usage and the advantages/drawbacks for each error rate.
+
+\subsection{Workload}
+A keyboard cannot be considered as good if it takes too much mental workload of the user. In the reviewed papers, six used NASA TLX \citep{hart1986nasa} to measure the mental workload of the subjects.
+
+\subsection{Subjective Rating}
+The users' preference and comments are also important for keyboard evaluation. Three in reviewed papers contained designed questions to ask for the subjective rating and preference of the keyboards. And one \citep{10.1145/1520340.1520380} collected comment data from App Store to evaluate the keyboard.
+
+\subsection{Learnability}
+When measuring the performance, enough time should be given to the participants to get familiar with the new keyboard, in order to get a reasonable and objective result. Ten in reviewed papers provided training sessions (from 20 minutes to 2 days) for participants to get accustomed to the keyboard or reporting the result for the first session and the last session separately, to give the readers a sense of the learnability of the design.
+
+\subsection{Touch Points Analysis}
+Analysis of the user touch points is a good way to explore the typing pattern of participants and a good way to get reference to adjust the layout, design and materials of the keys/keyboards. Two papers plotted the heatmap of the user touch points and other three analyzed the vertical and horizontal offset between the user hit points and the center of each key. 
+
+\section{Conclusion}
 
 \newpage
 %language model

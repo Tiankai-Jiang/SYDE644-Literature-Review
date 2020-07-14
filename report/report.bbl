@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[{Arif} and {Stuerzlinger}, 2009]{54444533}
+{Arif}, A.~S. and {Stuerzlinger}, W. (2009).
+\newblock Analysis of text entry performance metrics.
+\newblock In {\em 2009 IEEE Toronto International Conference Science and
+  Technology for Humanity (TIC-STH)}, pages 100--105.
+
 \bibitem[Azenkot and Zhai, 2012]{10.1145/2371574.2371612}
 Azenkot, S. and Zhai, S. (2012).
 \newblock Touch behavior with different postures on soft smartphone keyboards.
@@ -7,6 +13,13 @@ Azenkot, S. and Zhai, S. (2012).
   Human-Computer Interaction with Mobile Devices and Services}, MobileHCI
   ’12, page 251–260, New York, NY, USA. Association for Computing
   Machinery.
+
+\bibitem[Bao et~al., 2011]{10.1145/2037373.2037440}
+Bao, P., Pierce, J., Whittaker, S., and Zhai, S. (2011).
+\newblock Smart phone use by non-mobile business users.
+\newblock In {\em Proceedings of the 13th International Conference on Human
+  Computer Interaction with Mobile Devices and Services}, MobileHCI ’11, page
+  445–454, New York, NY, USA. Association for Computing Machinery.
 
 \bibitem[Bi et~al., 2012]{10.1145/2380116.2380136}
 Bi, X., Chelba, C., Ouyang, T., Partridge, K., and Zhai, S. (2012).
@@ -91,6 +104,10 @@ Gunawardana, A., Paek, T., and Meek, C. (2010).
   Intelligent User Interfaces}, IUI ’10, page 111–118, New York, NY, USA.
   Association for Computing Machinery.
 
+\bibitem[Hart, 1986]{hart1986nasa}
+Hart, S.~G. (1986).
+\newblock Nasa task load index (tlx). volume 1.0; paper and pencil package.
+
 \bibitem[Hoggan et~al., 2008]{10.1145/1357054.1357300}
 Hoggan, E., Brewster, S.~A., and Johnston, J. (2008).
 \newblock Investigating the effectiveness of tactile feedback for mobile
@@ -139,6 +156,13 @@ Mackenzie, I. and Soukoreff, R. (2002).
 \newblock A model of two-thumb text entry.
 \newblock {\em Proceedings - Graphics Interface}.
 
+\bibitem[MacKenzie and Soukoreff, 2003]{10.1145/765891.765971}
+MacKenzie, I.~S. and Soukoreff, R.~W. (2003).
+\newblock Phrase sets for evaluating text entry techniques.
+\newblock In {\em CHI ’03 Extended Abstracts on Human Factors in Computing
+  Systems}, CHI EA ’03, page 754–755, New York, NY, USA. Association for
+  Computing Machinery.
+
 \bibitem[MacKenzie and Zhang, 1999]{10.1145/302979.302983}
 MacKenzie, I.~S. and Zhang, S.~X. (1999).
 \newblock The design and evaluation of a high-performance soft keyboard.
@@ -169,6 +193,20 @@ Scott, J., Izadi, S., Rezai, L.~S., Ruszkowski, D., Bi, X., and Balakrishnan,
 \newblock In {\em Proceedings of the 12th International Conference on Human
   Computer Interaction with Mobile Devices and Services}, MobileHCI ’10, page
   171–180, New York, NY, USA. Association for Computing Machinery.
+
+\bibitem[Soukoreff, 2010]{10.5555/1970759}
+Soukoreff, R.~W. (2010).
+\newblock {\em Quantifying Text Entry Performance}.
+\newblock PhD thesis, CAN.
+\newblock AAINR64939.
+
+\bibitem[Soukoreff and MacKenzie, 2003]{10.1145/642611.642632}
+Soukoreff, R.~W. and MacKenzie, I.~S. (2003).
+\newblock Metrics for text entry research: An evaluation of msd and kspc, and a
+  new unified error metric.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI ’03, page 113–120, New York, NY, USA. Association
+  for Computing Machinery.
 
 \bibitem[Vertanen et~al., 2015]{10.1145/2702123.2702135}
 Vertanen, K., Memmi, H., Emge, J., Reyal, S., and Kristensson, P.~O. (2015).

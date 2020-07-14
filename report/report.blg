@@ -3,44 +3,47 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: report.aux
 The style file: apalike.bst
 Database file #1: references.bib
-You've used 29 entries,
+Warning--empty journal in hart1986nasa
+Warning--empty school in 10.5555/1970759
+You've used 35 entries,
             1935 wiz_defined-function locations,
-            648 strings with 10047 characters,
-and the built_in function-call counts, 17197 in all, are:
-= -- 1894
-> -- 607
-< -- 33
-+ -- 220
-- -- 208
-* -- 1059
-:= -- 2434
-add.period$ -- 113
-call.type$ -- 29
-change.case$ -- 249
-chr.to.int$ -- 29
-cite$ -- 29
-duplicate$ -- 1021
-empty$ -- 1104
-format.name$ -- 251
-if$ -- 3966
+            679 strings with 11064 characters,
+and the built_in function-call counts, 19989 in all, are:
+= -- 2198
+> -- 683
+< -- 42
++ -- 244
+- -- 232
+* -- 1230
+:= -- 2850
+add.period$ -- 134
+call.type$ -- 35
+change.case$ -- 290
+chr.to.int$ -- 35
+cite$ -- 37
+duplicate$ -- 1184
+empty$ -- 1300
+format.name$ -- 287
+if$ -- 4595
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 29
-newline$ -- 148
-num.names$ -- 87
-pop$ -- 264
+missing$ -- 34
+newline$ -- 178
+num.names$ -- 105
+pop$ -- 308
 preamble$ -- 1
-purify$ -- 249
+purify$ -- 291
 quote$ -- 0
-skip$ -- 1001
+skip$ -- 1154
 stack$ -- 0
-substring$ -- 888
-swap$ -- 541
-text.length$ -- 26
+substring$ -- 1042
+swap$ -- 612
+text.length$ -- 30
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 174
-warning$ -- 0
-while$ -- 86
+type$ -- 210
+warning$ -- 2
+while$ -- 103
 width$ -- 0
-write$ -- 456
+write$ -- 542
+(There were 2 warnings)
