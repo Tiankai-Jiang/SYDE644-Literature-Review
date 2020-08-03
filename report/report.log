@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  14 JUL 2020 14:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  2 AUG 2020 21:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -450,12 +450,12 @@ File: Layout1999.png Graphic file (type png)
 <use Layout1999.png>
 Package pdftex.def Info: Layout1999.png  used on input line 140.
 (pdftex.def)             Requested size: 384.4775pt x 165.98872pt.
-<Layout2010.png, id=181, 564.1075pt x 105.39375pt>
+ [7 <./Layout1999.png>]
+<Layout2010.png, id=191, 564.1075pt x 105.39375pt>
 File: Layout2010.png Graphic file (type png)
 <use Layout2010.png>
 Package pdftex.def Info: Layout2010.png  used on input line 151.
 (pdftex.def)             Requested size: 384.4775pt x 71.83403pt.
- [7 <./Layout1999.png>]
 <Layout2011.png, id=201, 794.97pt x 166.6225pt>
 File: Layout2011.png Graphic file (type png)
 <use Layout2011.png>
@@ -502,24 +502,24 @@ Package pdftex.def Info: Invisiboard.png  used on input line 224.
 (pdftex.def)             Requested size: 336.41505pt x 101.70775pt.
 [12 <./SplitBoard.png>] [13 <./WatchWriter.png> <./Invisiboard.png>] [14]
 [15]
-<Bimanual.png, id=350, 767.86874pt x 219.82124pt>
+<Bimanual.png, id=351, 767.86874pt x 219.82124pt>
 File: Bimanual.png Graphic file (type png)
 <use Bimanual.png>
 Package pdftex.def Info: Bimanual.png  used on input line 250.
 (pdftex.def)             Requested size: 384.4775pt x 110.068pt.
  [16 <./Bimanual.png>]
-<Posture1.png, id=367, 357.335pt x 290.08376pt>
+<Posture1.png, id=368, 357.335pt x 290.08376pt>
 File: Posture1.png Graphic file (type png)
 <use Posture1.png>
 Package pdftex.def Info: Posture1.png  used on input line 266.
 (pdftex.def)             Requested size: 240.29752pt x 195.07216pt.
-<Posture2.png, id=368, 356.33125pt x 283.0575pt>
+<Posture2.png, id=369, 356.33125pt x 283.0575pt>
 File: Posture2.png Graphic file (type png)
 <use Posture2.png>
 Package pdftex.def Info: Posture2.png  used on input line 267.
 (pdftex.def)             Requested size: 240.29752pt x 190.88278pt.
  [17 <./Posture1.png> <./Posture2.png>] [18]
-<Usability.png, id=407, 746.79pt x 236.885pt>
+<Usability.png, id=409, 746.79pt x 236.885pt>
 File: Usability.png Graphic file (type png)
 <use Usability.png>
 Package pdftex.def Info: Usability.png  used on input line 288.
@@ -551,7 +551,7 @@ Here is how much of TeX's memory you used:
  13068 multiletter control sequences out of 15000+600000
  12807 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,10n,53p,1532b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,10n,53p,1543b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
@@ -565,10 +565,10 @@ cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
 xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texli
 ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (28 pages, 5677960 bytes).
+Output written on report.pdf (28 pages, 5678247 bytes).
 PDF statistics:
- 590 PDF objects out of 1000 (max. 8388607)
- 478 compressed objects within 5 object streams
+ 594 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
  107 named destinations out of 1000 (max. 500000)
  262 words of extra memory for PDF output out of 10000 (max. 10000000)
 
